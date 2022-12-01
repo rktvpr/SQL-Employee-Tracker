@@ -10,7 +10,8 @@ This application is a command line Employee Tracker which takes user inputs and 
 * [Features](#Features)
 
 ## Links and images
-
+[Github Repo](https://github.com/rktvpr/SQL-Employee-Tracker)
+[Video walkthrough](https://drive.google.com/file/d/1jp0khXGmEXXQWVLS_O9EkdJ5iNDfvSJg/view?usp=sharing)
 
 ## Acceptance_Criteria
 
